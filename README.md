@@ -1,4 +1,15 @@
-### Hi there 👋
+## About 
+
+Hi there 👋
+
+I'm Nick , an enthusiastic student with a passion for software development. I'm dedicated to translating creative ideas into functional code that paves the way for a better future.
+
+# Skills
+
+* 💻 Rust , C/C++ , Python 
+* 📱  Java
+* ⚛  MySql , PostgreSql
+
 
 <!--
 **nikolasbtks/nikolasbtks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
