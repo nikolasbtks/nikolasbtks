@@ -8,7 +8,7 @@ I'm Nick , an enthusiastic student with a passion for software development. I'm 
 
 * 💻 Rust , C/C++ , Python 
 * 📱  Java
-* ⚛  MySql , PostgreSql
+* ⚛  MySQL , PostgreSQL
 
 
 <!--
